@@ -30,3 +30,14 @@ Istruzioni per eseguire il runnable .jar:
 
 
 Si mostrano di seguito alcune schermate dell’esecuzione del programma selezionando la quick scan. Questa scelta è consigliata in quanto essa effettua la ricerca su un indice di dimensioni molto ridotte, che ha indicizzato solo le triple degli esempi spiegati in questo documento: ciò consente di ottenere una rapida risposta dal server per valutarne il funzionamento in tempi ragionevolmente bassi (l’indice del cinema completo, che è comunque una versione ridotta dell’intero database freebase, pesa infatti più di 3 GB su un server non molto prestante).
+
+![esempio3](https://user-images.githubusercontent.com/51203516/73940724-437d7a80-48ec-11ea-95d5-1c0f41bf4404.PNG)
+![esempio4](https://user-images.githubusercontent.com/51203516/73940933-9fe09a00-48ec-11ea-9a67-d1cd40849807.PNG)
+![esempio5](https://user-images.githubusercontent.com/51203516/73940953-aa9b2f00-48ec-11ea-9a53-badf1389b806.PNG)
+![esempio6](https://user-images.githubusercontent.com/51203516/73940981-b4bd2d80-48ec-11ea-86a4-cdd116b10f82.PNG)
+![esempio7](https://user-images.githubusercontent.com/51203516/73940998-bc7cd200-48ec-11ea-9031-5c393786a8e2.PNG)
+![esempio8](https://user-images.githubusercontent.com/51203516/73941017-c6063a00-48ec-11ea-99c5-8e9d8b5fe65e.PNG)
+![esempio9](https://user-images.githubusercontent.com/51203516/73941036-d0283880-48ec-11ea-9f83-ac3c4407aee4.PNG)
+![esempio10](https://user-images.githubusercontent.com/51203516/73941062-dc13fa80-48ec-11ea-8781-e434c76878be.PNG)
+![esempio11](https://user-images.githubusercontent.com/51203516/73941092-eafaad00-48ec-11ea-83d1-24cfa1a24028.PNG)
+![esempio12](https://user-images.githubusercontent.com/51203516/73941116-f51cab80-48ec-11ea-8b6a-9382ae566b36.PNG)
